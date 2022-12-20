@@ -28,13 +28,9 @@ public class TEXTM05 {
         for(int i=0; i<=30;i++) {
             System.out.println("La i vale: "+i);
         }
-        //Prueba 4
-        for(int x=0;x<=30;x+=3){
-            System.out.println("La x vale "+x);
-        }
 
         //Prueba 5
-        for(int k = 0; k<=5;k++) {
+        for(int k = 0; k<=50;k++) {
             System.out.println("La k vale: "+k);
         }
     
