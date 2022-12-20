@@ -26,7 +26,7 @@ public class Pruebas {
         }
         //Prueba 3
         for(int i=0; i<30;i++) {
-        	System.out.println("La i vale "+i);
+        	System.out.println("La i vale: "+i);
         }
     }
     
