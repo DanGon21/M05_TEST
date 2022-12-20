@@ -34,5 +34,9 @@ public class TEXTM05 {
             System.out.println("La k vale: "+k);
         }
     
+      //Prueba 6
+        for(int x = 30; x<=50;x++) {
+            System.out.println("La x vale: "+x);
+        }
     }
 }
