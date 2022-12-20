@@ -35,7 +35,7 @@ public class TEXTM05 {
 
         //Prueba 5
         for(int k = 0; k<5;k++) {
-         System.out.println("La k vale "+k);
+        	System.out.println("La k vale: "+k);
         }
     
     }
