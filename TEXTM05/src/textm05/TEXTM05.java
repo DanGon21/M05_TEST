@@ -33,11 +33,6 @@ public class TEXTM05 {
         for(int k = 0; k<5;k++) {
         	System.out.println("aaaaa"+k);
         }
-        //Prueba 4
-        for(int x=0;x<30;x+=3){
-            System.out.println("La x vale "+x);
-
-        }
     
     }
 }
