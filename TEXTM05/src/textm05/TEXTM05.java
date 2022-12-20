@@ -28,10 +28,14 @@ public class TEXTM05 {
         for(int i=0; i<=30;i++) {
             System.out.println("La i vale: "+i);
         }
-
+        
         //Prueba 5
         for(int k = 0; k<=50;k++) {
             System.out.println("La k vale: "+k);
+        }
+        //Prueba 6
+        for(int h=5;h>=0;h--){
+            System.out.println("La h vale: "+h);
         }
     
       //Prueba 6
