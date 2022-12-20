@@ -30,7 +30,7 @@ public class TEXTM05 {
         }
         //Prueba 5
         for(int k = 0; k<5;k++) {
-        	System.out.println("aaaa"+k);
+        	System.out.println("aaaaa"+k);
         }
     }
     
