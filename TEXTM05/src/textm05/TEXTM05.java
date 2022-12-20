@@ -36,7 +36,7 @@ public class TEXTM05 {
     
         //Prueba 6
         for(int h=5;h>=0;h--){
-            System.out.println("La x vale: "+x);
+            System.out.println("La x vale: "+h);
         }
     }
 }
