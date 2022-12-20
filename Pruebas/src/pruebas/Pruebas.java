@@ -6,7 +6,8 @@ package pruebas;
 
 /**
  *
- * @author ausias
+ * @author ausias,asaaodhjo
+
  */
 public class Pruebas {
 
