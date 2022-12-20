@@ -7,11 +7,11 @@ package textm05;
 /**
  *
  * @author ausias,asaaodhjo
-
+ * 
  */
 public class TEXTM05 {
 
-    /**
+	/**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
@@ -28,11 +28,16 @@ public class TEXTM05 {
         for(int i=0; i<30;i++) {
         	System.out.println("La i vale: "+i);
         }
+
         //Prueba 5
         for(int k = 0; k<5;k++) {
         	System.out.println("aaaaa"+k);
         }
-    }
-    
-}
+        //Prueba 4
+        for(int x=0;x<30;x+=3){
+            System.out.println("La x vale "+x);
 
+        }
+    
+    }
+}
