@@ -24,6 +24,10 @@ public class Pruebas {
         for(int j=0;j<=20;j+=2){
             System.out.println("La j vale "+j);
         }
+        //Prueba 3
+        for(int i=0; i<30;i++) {
+        	System.out.println("La i vale "+i);
+        }
     }
     
 }
