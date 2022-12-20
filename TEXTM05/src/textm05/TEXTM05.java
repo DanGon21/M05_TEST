@@ -25,8 +25,12 @@ public class TEXTM05 {
             System.out.println("La j vale "+j);
         }
         //Prueba 3
-        for(int i=0; i<30;i++) {
+        for(int i=0; i<=30;i++) {
         	System.out.println("La i vale: "+i);
+        }
+        //Prueba 4
+        for(int x=0;x<=30;x+=3){
+            System.out.println("La x vale "+x);
         }
 
         //Prueba 5
